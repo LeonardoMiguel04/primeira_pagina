@@ -23,17 +23,12 @@ footer{
 /* centralizar */
 
 body{
-    background-image: url(https://img.freepik.com/fotos-gratis/papel-de-parede-abstrato-ultra-detalhado-da-nebulosa-4_1562-749.jpg); background-repeat: repeat-y; background-size: 100%;
+    background-color: darkgrey;
     font-family: Courier, monospace;
 }
 
 /* mudei a imagem de fundo e a fonte do site */
 
-h1,h3,h4,li{
-    color: white;
-}
-
-/* mudei a cor das letras para branco */
 
 a{
     color: cyan;
