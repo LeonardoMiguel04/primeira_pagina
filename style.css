@@ -46,3 +46,8 @@ img{
 }
 
 /* mudei o tamanho de todas as imagens */
+
+p{
+    color: white;
+    font-size: small;
+}
