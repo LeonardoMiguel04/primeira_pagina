@@ -1,34 +1,16 @@
-header{
+body{
     text-align: center;
+    background-color: darkgrey;
+    font-family: Courier, monospace;
 }
 
-/* Centralizar */
+/* mudei a cor de fundo, mudei a fonte do site e e centralizei tudo*/
 
 header img{
     width: 500px;
 }
 
-/* mudei o tamanho da logo */
-
-main{
-    text-align: center;
-}
-
-/* centralizar */
-
-footer{
-    text-align: center;
-}
-
-/* centralizar */
-
-body{
-    background-color: darkgrey;
-    font-family: Courier, monospace;
-}
-
-/* mudei a cor de fundo e a fonte do site */
-
+/* Mudei o tamanho da logo */
 
 a{
     color: cyan;
